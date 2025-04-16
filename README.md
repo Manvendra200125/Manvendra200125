@@ -2,7 +2,7 @@
 [![Blue Modern Corporate Staff Profile LinkedIn Banner (1)](https://github.com/Manvendra200125/Manvendra200125/assets/97372903/557f4790-9e23-476e-9a6f-b91ffa01c07a)](https://manvendra200125.github.io/MSN)
 
 <h1 align="center">Hi 👋, I'm Manvendra singh</h1>
-<h3 align="center">FUCKING MIND DO CODING...</h3>
+<!-- <h3 align="center">FUCKING MIND DO CODING...</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manvendra200125&label=Profile%20views&color=8b19d7&style=flat-square" alt="manvendra200125" /> </p>
 
